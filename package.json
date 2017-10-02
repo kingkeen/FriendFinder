@@ -1,11 +1,12 @@
 {
   "name": "friendfinder",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "dependencies": {
     "body-parser": "^1.17.2",
     "express": "^4.15.3",
+    "method-override": "^2.3.9",
+    "mysql": "^2.14.1",
     "path": "^0.12.7"
   },
   "devDependencies": {},
@@ -22,5 +23,6 @@
   "bugs": {
     "url": "https://github.com/kingkeen/FriendFinder/issues"
   },
-  "homepage": "https://github.com/kingkeen/FriendFinder#readme"
+  "homepage": "https://github.com/kingkeen/FriendFinder#readme",
+  "description": ""
 }
